@@ -1,0 +1,101 @@
+Order ID,Order Date,Ship Date,Ship Mode,Customer Name,Segment,Country,City,State,Region,Category,Sub-Category,Sales,Quantity,Discount,Profit
+ORD-1001,20-08-2023,27-08-2023,First Class,Customer 1,Corporate,United States,Columbus,Ohio,South,Office Supplies,Paper,962.91,9,0.3,48.15
+ORD-1002,19-12-2023,25-12-2023,Second Class,Customer 2,Corporate,United States,Atlanta,Georgia,South,Technology,Accessories,467.43,9,0.1,70.11
+ORD-1003,21-08-2024,27-08-2024,Same Day,Customer 3,Corporate,United States,Savannah,Georgia,Central,Technology,Machines,602.27,3,0.1,90.34
+ORD-1004,22-05-2022,25-05-2022,Second Class,Customer 4,Corporate,United States,Rochester,New York,East,Furniture,Tables,1188.77,9,0,237.75
+ORD-1005,07-12-2023,09-12-2023,Standard Class,Customer 5,Home Office,United States,Buffalo,New York,West,Office Supplies,Binders,1462.91,3,0.3,73.15
+ORD-1006,05-07-2022,12-07-2022,Second Class,Customer 6,Home Office,United States,Rochester,New York,Central,Office Supplies,Storage,1271.67,6,0.1,190.75
+ORD-1007,14-06-2024,18-06-2024,Same Day,Customer 7,Home Office,United States,Augusta,Georgia,Central,Technology,Phones,1799.45,6,0.1,269.92
+ORD-1008,08-08-2022,10-08-2022,Second Class,Customer 8,Corporate,United States,New York City,New York,East,Technology,Accessories,311.66,4,0.1,46.75
+ORD-1009,04-09-2022,05-09-2022,Standard Class,Customer 9,Corporate,United States,New York City,New York,West,Office Supplies,Storage,1671.52,1,0.3,83.58
+ORD-1010,31-12-2022,06-01-2023,Standard Class,Customer 10,Corporate,United States,Seattle,Washington,East,Office Supplies,Binders,1453.22,2,0.1,217.98
+ORD-1011,25-07-2024,30-07-2024,First Class,Customer 11,Corporate,United States,Buffalo,New York,East,Technology,Machines,547.85,8,0.1,82.18
+ORD-1012,12-08-2022,13-08-2022,Standard Class,Customer 12,Corporate,United States,Seattle,Washington,Central,Technology,Accessories,1830.63,6,0,366.13
+ORD-1013,05-09-2024,07-09-2024,Second Class,Customer 13,Home Office,United States,Cincinnati,Ohio,Central,Technology,Phones,1956.04,10,0.2,195.6
+ORD-1014,01-06-2023,05-06-2023,Same Day,Customer 14,Corporate,United States,Orlando,Florida,East,Furniture,Tables,1214.77,6,0,242.95
+ORD-1015,19-04-2022,25-04-2022,First Class,Customer 15,Home Office,United States,Cincinnati,Ohio,East,Office Supplies,Paper,1502.17,4,0,300.43
+ORD-1016,25-11-2023,28-11-2023,Second Class,Customer 16,Consumer,United States,Atlanta,Georgia,South,Office Supplies,Binders,1802.82,5,0.3,90.14
+ORD-1017,17-04-2024,18-04-2024,First Class,Customer 17,Corporate,United States,Austin,Texas,Central,Office Supplies,Binders,1006.44,10,0.1,150.97
+ORD-1018,13-06-2022,20-06-2022,Same Day,Customer 18,Corporate,United States,Cincinnati,Ohio,East,Technology,Phones,1556.81,1,0.3,77.84
+ORD-1019,18-10-2022,20-10-2022,First Class,Customer 19,Consumer,United States,Rochester,New York,West,Technology,Machines,641.58,9,0.2,64.16
+ORD-1020,19-08-2023,20-08-2023,Same Day,Customer 20,Consumer,United States,Atlanta,Georgia,Central,Furniture,Bookcases,1016.47,9,0.3,50.82
+ORD-1021,25-07-2023,29-07-2023,First Class,Customer 21,Home Office,United States,Naperville,Illinois,Central,Furniture,Bookcases,1929.1,7,0,385.82
+ORD-1022,09-09-2023,13-09-2023,First Class,Customer 22,Corporate,United States,Savannah,Georgia,East,Furniture,Chairs,1296.48,8,0.1,194.47
+ORD-1023,17-10-2023,24-10-2023,Same Day,Customer 23,Consumer,United States,Augusta,Georgia,South,Technology,Accessories,574.26,5,0.2,57.43
+ORD-1024,14-03-2024,18-03-2024,Same Day,Customer 24,Corporate,United States,Springfield,Illinois,Central,Technology,Accessories,1865.46,3,0,373.09
+ORD-1025,26-09-2024,30-09-2024,Standard Class,Customer 25,Home Office,United States,Naperville,Illinois,West,Furniture,Tables,50.38,7,0.3,2.52
+ORD-1026,08-05-2023,10-05-2023,First Class,Customer 26,Corporate,United States,Cincinnati,Ohio,West,Office Supplies,Binders,1020.68,6,0.2,102.07
+ORD-1027,17-05-2022,19-05-2022,First Class,Customer 27,Corporate,United States,Savannah,Georgia,West,Technology,Phones,553.81,6,0.1,83.07
+ORD-1028,20-03-2022,24-03-2022,Second Class,Customer 28,Corporate,United States,Buffalo,New York,South,Technology,Phones,1095.7,10,0.1,164.36
+ORD-1029,05-03-2022,10-03-2022,First Class,Customer 29,Home Office,United States,New York City,New York,South,Technology,Machines,551.47,8,0.3,27.57
+ORD-1030,02-05-2022,08-05-2022,Second Class,Customer 30,Home Office,United States,Dallas,Texas,Central,Furniture,Tables,1204.45,1,0.1,180.67
+ORD-1031,26-04-2023,03-05-2023,Same Day,Customer 31,Home Office,United States,Cincinnati,Ohio,East,Technology,Phones,1033.19,3,0.2,103.32
+ORD-1032,03-04-2023,09-04-2023,Standard Class,Customer 32,Home Office,United States,Springfield,Illinois,East,Technology,Phones,897.27,2,0.1,134.59
+ORD-1033,23-03-2024,24-03-2024,First Class,Customer 33,Consumer,United States,Miami,Florida,South,Office Supplies,Binders,1652.11,10,0.2,165.21
+ORD-1034,13-04-2023,19-04-2023,Standard Class,Customer 34,Corporate,United States,Orlando,Florida,East,Office Supplies,Binders,486.29,8,0.2,48.63
+ORD-1035,07-04-2024,12-04-2024,First Class,Customer 35,Home Office,United States,Naperville,Illinois,West,Office Supplies,Paper,934.58,2,0,186.92
+ORD-1036,08-01-2024,14-01-2024,First Class,Customer 36,Corporate,United States,Cincinnati,Ohio,East,Technology,Accessories,788.8,5,0,157.76
+ORD-1037,06-03-2023,10-03-2023,Second Class,Customer 37,Home Office,United States,Savannah,Georgia,Central,Technology,Machines,368.41,5,0,73.68
+ORD-1038,01-07-2024,08-07-2024,Standard Class,Customer 38,Corporate,United States,Cleveland,Ohio,East,Office Supplies,Storage,433.5,8,0.3,21.68
+ORD-1039,22-07-2023,26-07-2023,Same Day,Customer 39,Consumer,United States,Savannah,Georgia,East,Furniture,Tables,917.48,4,0,183.5
+ORD-1040,22-01-2022,28-01-2022,Same Day,Customer 40,Corporate,United States,Orlando,Florida,Central,Technology,Phones,730.64,7,0,146.13
+ORD-1041,11-04-2024,15-04-2024,Same Day,Customer 41,Home Office,United States,Houston,Texas,South,Office Supplies,Storage,311.83,7,0.1,46.77
+ORD-1042,08-07-2022,10-07-2022,Same Day,Customer 42,Consumer,United States,Orlando,Florida,West,Office Supplies,Storage,1153.89,2,0.2,115.39
+ORD-1043,05-05-2023,10-05-2023,Same Day,Customer 43,Corporate,United States,Buffalo,New York,Central,Technology,Phones,1210.06,3,0,242.01
+ORD-1044,08-10-2022,13-10-2022,First Class,Customer 44,Consumer,United States,Dallas,Texas,West,Technology,Accessories,1764.47,6,0.3,88.22
+ORD-1045,24-04-2024,28-04-2024,Second Class,Customer 45,Home Office,United States,Cleveland,Ohio,South,Technology,Accessories,394.54,6,0.2,39.45
+ORD-1046,08-09-2023,10-09-2023,Same Day,Customer 46,Home Office,United States,New York City,New York,Central,Furniture,Tables,1691.13,10,0.2,169.11
+ORD-1047,08-11-2023,09-11-2023,Same Day,Customer 47,Corporate,United States,Houston,Texas,West,Furniture,Chairs,163.92,2,0.1,24.59
+ORD-1048,04-10-2022,11-10-2022,Second Class,Customer 48,Corporate,United States,Tacoma,Washington,West,Furniture,Bookcases,140.03,3,0,28.01
+ORD-1049,14-05-2024,16-05-2024,Second Class,Customer 49,Corporate,United States,Houston,Texas,South,Office Supplies,Paper,598.67,8,0.2,59.87
+ORD-1050,31-08-2023,03-09-2023,Second Class,Customer 50,Consumer,United States,Columbus,Ohio,South,Technology,Accessories,1819.68,4,0,363.94
+ORD-1051,12-02-2023,16-02-2023,Standard Class,Customer 51,Corporate,United States,Spokane,Washington,West,Furniture,Tables,554.14,5,0,110.83
+ORD-1052,10-02-2022,15-02-2022,Second Class,Customer 52,Home Office,United States,Cleveland,Ohio,South,Technology,Phones,889.81,5,0,177.96
+ORD-1053,25-11-2022,29-11-2022,Same Day,Customer 53,Consumer,United States,San Francisco,California,East,Furniture,Chairs,431.06,1,0,86.21
+ORD-1054,13-05-2024,17-05-2024,Same Day,Customer 54,Home Office,United States,Tacoma,Washington,East,Furniture,Tables,1386.93,9,0.2,138.69
+ORD-1055,05-08-2024,11-08-2024,First Class,Customer 55,Home Office,United States,Savannah,Georgia,West,Technology,Machines,1692.78,5,0.1,253.92
+ORD-1056,13-01-2023,20-01-2023,Second Class,Customer 56,Home Office,United States,New York City,New York,South,Technology,Machines,415.77,4,0,83.15
+ORD-1057,31-08-2024,02-09-2024,First Class,Customer 57,Home Office,United States,Savannah,Georgia,East,Furniture,Chairs,508.77,1,0.2,50.88
+ORD-1058,04-08-2022,07-08-2022,Second Class,Customer 58,Consumer,United States,Orlando,Florida,East,Technology,Accessories,1304.13,7,0.3,65.21
+ORD-1059,07-02-2023,11-02-2023,First Class,Customer 59,Consumer,United States,Orlando,Florida,West,Office Supplies,Paper,929.04,9,0,185.81
+ORD-1060,29-05-2022,31-05-2022,Standard Class,Customer 60,Home Office,United States,New York City,New York,West,Office Supplies,Storage,1486.44,7,0,297.29
+ORD-1061,16-07-2023,22-07-2023,Same Day,Customer 61,Home Office,United States,Tacoma,Washington,South,Furniture,Bookcases,1262.73,2,0.3,63.14
+ORD-1062,12-09-2024,15-09-2024,Same Day,Customer 62,Home Office,United States,Atlanta,Georgia,East,Furniture,Tables,195.29,8,0.2,19.53
+ORD-1063,23-06-2022,27-06-2022,Standard Class,Customer 63,Home Office,United States,Orlando,Florida,South,Furniture,Chairs,1004.03,5,0.1,150.6
+ORD-1064,14-07-2023,20-07-2023,Same Day,Customer 64,Consumer,United States,Atlanta,Georgia,East,Technology,Phones,1427.29,8,0,285.46
+ORD-1065,05-11-2022,07-11-2022,Second Class,Customer 65,Consumer,United States,Atlanta,Georgia,South,Office Supplies,Paper,1367.58,5,0.3,68.38
+ORD-1066,22-04-2023,25-04-2023,Same Day,Customer 66,Corporate,United States,Austin,Texas,Central,Furniture,Bookcases,1990.49,3,0.2,199.05
+ORD-1067,27-01-2022,01-02-2022,First Class,Customer 67,Corporate,United States,Los Angeles,California,West,Technology,Phones,955.15,7,0,191.03
+ORD-1068,18-07-2024,25-07-2024,Standard Class,Customer 68,Corporate,United States,Austin,Texas,East,Technology,Machines,1352.22,8,0.1,202.83
+ORD-1069,24-12-2022,31-12-2022,Same Day,Customer 69,Consumer,United States,Rochester,New York,South,Office Supplies,Storage,1330.09,10,0.1,199.51
+ORD-1070,16-08-2024,17-08-2024,First Class,Customer 70,Home Office,United States,New York City,New York,South,Furniture,Bookcases,1766.87,10,0.3,88.34
+ORD-1071,22-05-2023,25-05-2023,Second Class,Customer 71,Consumer,United States,Los Angeles,California,Central,Office Supplies,Storage,1928.92,1,0.1,289.34
+ORD-1072,12-10-2023,13-10-2023,First Class,Customer 72,Corporate,United States,Tacoma,Washington,West,Furniture,Chairs,1017.54,6,0.2,101.75
+ORD-1073,23-04-2023,24-04-2023,First Class,Customer 73,Home Office,United States,Atlanta,Georgia,East,Furniture,Tables,920.56,4,0.3,46.03
+ORD-1074,26-09-2023,29-09-2023,Same Day,Customer 74,Consumer,United States,Savannah,Georgia,Central,Office Supplies,Paper,508.6,10,0,101.72
+ORD-1075,11-04-2022,12-04-2022,Second Class,Customer 75,Home Office,United States,Springfield,Illinois,West,Technology,Machines,1763.13,6,0,352.63
+ORD-1076,06-04-2024,09-04-2024,First Class,Customer 76,Home Office,United States,Chicago,Illinois,South,Technology,Machines,295.9,1,0.1,44.39
+ORD-1077,10-10-2022,16-10-2022,Standard Class,Customer 77,Consumer,United States,Tampa,Florida,West,Technology,Phones,1961.15,4,0.2,196.12
+ORD-1078,17-06-2024,23-06-2024,Second Class,Customer 78,Corporate,United States,Houston,Texas,East,Office Supplies,Binders,1808.44,4,0.2,180.84
+ORD-1079,11-12-2023,18-12-2023,Standard Class,Customer 79,Consumer,United States,Miami,Florida,East,Technology,Machines,1134.8,6,0.1,170.22
+ORD-1080,28-06-2024,30-06-2024,Same Day,Customer 80,Corporate,United States,Naperville,Illinois,South,Furniture,Bookcases,1969.09,1,0.2,196.91
+ORD-1081,06-04-2022,13-04-2022,Same Day,Customer 81,Home Office,United States,Houston,Texas,East,Furniture,Bookcases,1525.91,8,0.3,76.3
+ORD-1082,07-08-2024,11-08-2024,First Class,Customer 82,Corporate,United States,Tampa,Florida,South,Technology,Phones,1917.73,6,0.3,95.89
+ORD-1083,19-09-2023,23-09-2023,Same Day,Customer 83,Corporate,United States,Orlando,Florida,South,Furniture,Chairs,592.21,7,0.1,88.83
+ORD-1084,15-02-2023,16-02-2023,Standard Class,Customer 84,Home Office,United States,Rochester,New York,South,Furniture,Tables,82.83,10,0,16.57
+ORD-1085,02-03-2023,08-03-2023,First Class,Customer 85,Consumer,United States,Tampa,Florida,West,Technology,Machines,595.68,5,0,119.14
+ORD-1086,15-06-2023,22-06-2023,First Class,Customer 86,Home Office,United States,Chicago,Illinois,West,Furniture,Chairs,1869.17,5,0.3,93.46
+ORD-1087,29-01-2024,02-02-2024,Same Day,Customer 87,Corporate,United States,Austin,Texas,Central,Technology,Machines,1095.63,3,0,219.13
+ORD-1088,15-04-2022,16-04-2022,First Class,Customer 88,Corporate,United States,Austin,Texas,West,Furniture,Bookcases,528.69,1,0,105.74
+ORD-1089,30-07-2024,01-08-2024,First Class,Customer 89,Corporate,United States,Dallas,Texas,Central,Office Supplies,Binders,141.96,1,0.1,21.29
+ORD-1090,16-07-2022,19-07-2022,Same Day,Customer 90,Corporate,United States,San Diego,California,Central,Furniture,Chairs,1203.93,4,0.1,180.59
+ORD-1091,14-07-2024,18-07-2024,Second Class,Customer 91,Consumer,United States,Miami,Florida,Central,Technology,Phones,665.64,6,0.3,33.28
+ORD-1092,17-05-2022,20-05-2022,Same Day,Customer 92,Consumer,United States,Rochester,New York,Central,Furniture,Tables,1458.86,6,0.2,145.89
+ORD-1093,28-10-2023,01-11-2023,Same Day,Customer 93,Consumer,United States,Tacoma,Washington,South,Furniture,Chairs,995.23,8,0.3,49.76
+ORD-1094,20-08-2022,27-08-2022,Standard Class,Customer 94,Consumer,United States,San Francisco,California,South,Technology,Machines,1524.71,5,0.1,228.71
+ORD-1095,06-11-2023,12-11-2023,Second Class,Customer 95,Consumer,United States,Buffalo,New York,Central,Technology,Machines,1413.11,6,0,282.62
+ORD-1096,06-05-2024,09-05-2024,Second Class,Customer 96,Consumer,United States,San Diego,California,Central,Furniture,Bookcases,356.31,6,0.3,17.82
+ORD-1097,03-02-2023,08-02-2023,Standard Class,Customer 97,Consumer,United States,Cincinnati,Ohio,East,Office Supplies,Binders,1453.02,10,0.2,145.3
+ORD-1098,04-05-2024,10-05-2024,Same Day,Customer 98,Corporate,United States,Augusta,Georgia,Central,Office Supplies,Storage,1918.81,9,0,383.76
+ORD-1099,29-05-2024,02-06-2024,Same Day,Customer 99,Corporate,United States,Cleveland,Ohio,East,Furniture,Tables,514.3,5,0,102.86
+ORD-1100,14-09-2022,18-09-2022,First Class,Customer 100,Corporate,United States,Naperville,Illinois,East,Technology,Machines,1846.64,10,0.3,92.33
